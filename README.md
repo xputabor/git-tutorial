@@ -2,3 +2,4 @@
 - feature-A-Update
 - feature-B
 - feature-C
+- feature-D
